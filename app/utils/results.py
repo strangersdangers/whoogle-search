@@ -40,6 +40,8 @@ SITE_ALTS = {
     ], os.getenv('WHOOGLE_ALT_MD', 'farside.link/scribe')),
     'imgur.com': os.getenv('WHOOGLE_ALT_IMG', 'farside.link/rimgo'),
     'wikipedia.org': os.getenv('WHOOGLE_ALT_WIKI', 'farside.link/wikiless'),
+    'stackoverflow.com': os.getenv('WHOOGLE_ALT_STACK', 'farside.link/anonymousoverflow'),
+    'tiktok.com': os.getenv('WHOOGLE_ALT_TIKTOK', 'farside.link/proxitok'),
     'imdb.com': os.getenv('WHOOGLE_ALT_IMDB', 'farside.link/libremdb'),
     'quora.com': os.getenv('WHOOGLE_ALT_QUORA', 'farside.link/quetre')
 }
